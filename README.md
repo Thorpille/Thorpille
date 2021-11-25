@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thorpille
 - 👀 I’m interested in robotics and Folding@home
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and JavaScript
 - 🇫🇷 I’m living in France
 
 <!---
